@@ -7,4 +7,12 @@ Hola ✌️  soy el explorer **Victor** y este es mi blog personal donde compart
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
+
+Mis expectativas de este aprendizaje son:
+
+-Entender como funciona el Backend
+-Entender y aplicar los conceptos del Backend
+-Leer e interpretar los codigos que se me presenten
+-Saber hacer las programaciones del Backend
+-Colaborar con proyectos para el Backend
 🚀

@@ -1,6 +1,6 @@
 baseURL = "hhttps://victorpl28.github.io/my_launchx_blog/"
 languageCode = "en-us"
-title = "Bitácora de Viaje"
+title = "Bitácora de Viaje de Victor Perez"
 theme = "hugo-winston-theme"
 relativeURLs = true
 canonifyURLs = true
